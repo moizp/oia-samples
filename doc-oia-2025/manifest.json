@@ -1,0 +1,714 @@
+{
+  "source": "https://www.doc.govt.nz/news/oia-responses/2025/",
+  "retrieved": "2026-11-27",
+  "licence": {
+    "termsPage": "https://www.doc.govt.nz/footer-links/copyright/",
+    "statement": "Unless identified as having third party copyright or other licence, the material on this website is Crown Copyright and can be reused under the terms of the Creative Commons Attribution 4.0 International Licence (CC BY 4.0).",
+    "attribution": "Use text (not logos), eg \"Source: Department of Conservation\".",
+    "note": "Reuse terms exclude material with third party copyright or other licence, logos, trademarks and design elements. Material must be reproduced accurately and not used in a misleading context. Files here are unmodified bytes.",
+    "rechecked": "2026-11-27"
+  },
+  "requests": [
+    {
+      "ref": "OIAD-5866",
+      "slug": "OIAD-5866-fire-control-costs",
+      "title": "Fire control costs",
+      "responseDate": "17 Dec 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5866-fire-control-costs/response.pdf",
+          "role": "response",
+          "label": "Response (PDF, 185K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/december/oiad-5866-response.pdf",
+          "bytes": 189006,
+          "sha256": "a6f8a57a4b39718f38076ef4fd02cacc9e6dc178ece7c7145d1f7b9fa54f3b21",
+          "pages": 3,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5784",
+      "slug": "OIAD-5784-winton-racecourse-reserve-trustees",
+      "title": "Winton Racecourse Reserve Trustees",
+      "responseDate": "21 November 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5784-winton-racecourse-reserve-trustees/response.pdf",
+          "role": "response",
+          "label": "Response (PDF, 103K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/november/oiad-5784-response.pdf",
+          "bytes": 104572,
+          "sha256": "8e1d0e5fd9810d5400e8d2d7f404553f89b7f465d6fca40cb8a2452535f9bb02",
+          "pages": 2,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5727",
+      "slug": "OIAD-5727-motutapu-and-rangitoto-islands-concession-oiad-5572",
+      "title": "Motutapu and Rangitoto Islands - Concession (OIAD-5572 clarification)",
+      "responseDate": "31 October 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5727-motutapu-and-rangitoto-islands-concession-oiad-5572/response.pdf",
+          "role": "response",
+          "label": "Response (PDF,120K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/october/oiad-5727-response.pdf",
+          "bytes": 122450,
+          "sha256": "4367d92777c8f83816ba9349040777cedab7da2000695422803b334e639eedd8",
+          "pages": 6,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5616",
+      "slug": "OIAD-5616-great-walks-and-huts-revenue-and-hut",
+      "title": "Great walks and huts revenue and hut network costs",
+      "responseDate": "29 September 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5616-great-walks-and-huts-revenue-and-hut/response.pdf",
+          "role": "response",
+          "label": "Response (PDF, 451K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/september/oiad-5616-response.pdf",
+          "bytes": 461216,
+          "sha256": "9870840c56173f79beaffe63f6ef56aa181265292f7078999f516329dfda88b5",
+          "pages": 4,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5517",
+      "slug": "OIAD-5517-katipo-spiders-and-shore-skinks-forestry-beach",
+      "title": "Katipo spiders and shore skinks - Forestry Beach, Te Arai, Auckland",
+      "responseDate": "20 August 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5517-katipo-spiders-and-shore-skinks-forestry-beach/response.pdf",
+          "role": "response",
+          "label": "Response letter (PDF, 239K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/august/oiad-5517-response.pdf",
+          "bytes": 244686,
+          "sha256": "bea18f07ab90dabda76dd33a6dd38b97b1b07da445bfaf8c59158b49046e1dcb",
+          "pages": 4,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5433",
+      "slug": "OIAD-5433-taranaki-crossing-project-amount-spent-by-doc",
+      "title": "Taranaki Crossing project, amount spent by DOC",
+      "responseDate": "31 July 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5433-taranaki-crossing-project-amount-spent-by-doc/response.pdf",
+          "role": "response",
+          "label": "Response letter (PDF, 138K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/july/oiad-5433-response.pdf",
+          "bytes": 140572,
+          "sha256": "09bf9d9ed2c0c9b6a94b07110ebba456ab16c9ba23f53ccb9e9dcae3843d55a2",
+          "pages": 2,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5299",
+      "slug": "OIAD-5299-work-from-home-wfh-policy",
+      "title": "Work from home (WFH) policy",
+      "responseDate": "27 June 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5299-work-from-home-wfh-policy/response.pdf",
+          "role": "response",
+          "label": "Response letter (PDF, 2,361K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/june/oiad-5299-response.pdf",
+          "bytes": 2417640,
+          "sha256": "0c29c76e90e85a90d99e2f1cf141b2c853f165308e43d828cd334f2710561dd4",
+          "pages": 5,
+          "retrieved": "2026-11-27"
+        },
+        {
+          "file": "OIAD-5299-work-from-home-wfh-policy/attachment-1.pdf",
+          "role": "attachment",
+          "label": "Attachment 1: combined documents (PDF, 3,766K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/june/oid-5299-combined-docs-for-release.pdf",
+          "bytes": 3856140,
+          "sha256": "54aef7ce683cdc6638cefa750962c2060e3dac9392899f8b651713d20086d111",
+          "pages": 25,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5177",
+      "slug": "OIAD-5177-convention-on-biological-diversity-cbd-on-its",
+      "title": "Convention on Biological Diversity (CBD) on its progress in achieving its targets by 2030",
+      "responseDate": "30 May 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5177-convention-on-biological-diversity-cbd-on-its/response.pdf",
+          "role": "response",
+          "label": "Response letter (PDF, 242K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/may/oiad-5177-response.pdf",
+          "bytes": 247073,
+          "sha256": "c6ca9f3ba486ddf28c76f29e1b6c51229ce161c37eb19ee5e3a9a53cf118e315",
+          "pages": 3,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5071",
+      "slug": "OIAD-5071-pure-turoa-ltd-ptl-concession-applications-advice",
+      "title": "Pure Turoa Ltd (PTL) concession applications, advice on solvency",
+      "responseDate": "30 April 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5071-pure-turoa-ltd-ptl-concession-applications-advice/response.pdf",
+          "role": "response",
+          "label": "Response letter (PDF, 130K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/april/oiad-5071-response.pdf",
+          "bytes": 133036,
+          "sha256": "d5479e2d7c5a76e30165de67aa1d876fc86bc2a74c45760fed8ef663cb066956",
+          "pages": 2,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-4873",
+      "slug": "OIAD-4873-conservation-board-nominations-2025",
+      "title": "Conservation Board nominations 2025",
+      "responseDate": "26 February 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-4873-conservation-board-nominations-2025/response.pdf",
+          "role": "response",
+          "label": "Response (PDF, 187K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/february/oiad-4873-response.pdf",
+          "bytes": 191007,
+          "sha256": "c601d526cfa62cba2c91224dac5e2eea162de0e9dfc599cfcd158ee5babc93b5",
+          "pages": 2,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-4772",
+      "slug": "OIAD-4772-trapnz-and-funds-paid-to-groundtruth-since",
+      "title": "TrapNZ and funds paid to Groundtruth since 2014",
+      "responseDate": "31 January 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-4772-trapnz-and-funds-paid-to-groundtruth-since/response.pdf",
+          "role": "response",
+          "label": "Response (PDF, 117K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/january/oiad-4772-response.pdf",
+          "bytes": 119387,
+          "sha256": "a5023edd689f2f0d13bf19f6fd17505853efb232a49d864127f5d9b57cc227ad",
+          "pages": 1,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5845",
+      "slug": "OIAD-5845-amount-spent-on-consultants",
+      "title": "Amount spent on consultants",
+      "responseDate": "10 December 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5845-amount-spent-on-consultants/response.pdf",
+          "role": "response",
+          "label": "Response (PDF, 235K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/december/oiad-5845-response.pdf",
+          "bytes": 239897,
+          "sha256": "c121b973bdac54262a4f89433e81396c2b31c1afd31f3f6e278e1ebc20b59f2b",
+          "pages": 5,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5730",
+      "slug": "OIAD-5730-watts-peninsula-reserve-wellington",
+      "title": "Watts Peninsula Reserve, Wellington",
+      "responseDate": "20 November 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5730-watts-peninsula-reserve-wellington/response.pdf",
+          "role": "response",
+          "label": "Response (PDF, 218K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/november/oiad-5730-response.pdf",
+          "bytes": 222486,
+          "sha256": "af0705a8166100caff3d09f71ddb93a72ad5d745801794e3d3a016a8e782f355",
+          "pages": 2,
+          "retrieved": "2026-11-27"
+        },
+        {
+          "file": "OIAD-5730-watts-peninsula-reserve-wellington/attachment-1.pdf",
+          "role": "attachment",
+          "label": "Combined attachments (PDF, 220K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/november/oiad-5730-attachments.pdf",
+          "bytes": 224651,
+          "sha256": "7065a1eb23874d20daf61b451d360b6dca6eedc3cb5e6466a60cced3520959c7",
+          "pages": 11,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5714",
+      "slug": "OIAD-5714-appointments-to-the-queen-elizabeth-the-second",
+      "title": "Appointments to the Queen Elizabeth the Second (QEII) National Trust Board",
+      "responseDate": "31 October 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5714-appointments-to-the-queen-elizabeth-the-second/response.pdf",
+          "role": "response",
+          "label": "Response (PDF, 206K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/october/oiad-5714-response.pdf",
+          "bytes": 211147,
+          "sha256": "9f5fa0bb39e27bb1f51c3c9fee5615236bfc10189167607097f32c4c23b2f097",
+          "pages": 2,
+          "retrieved": "2026-11-27"
+        },
+        {
+          "file": "OIAD-5714-appointments-to-the-queen-elizabeth-the-second/attachment-1.pdf",
+          "role": "attachment",
+          "label": "Combined documents (PDF, 234K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/october/oiad-5714-combined-documents.pdf",
+          "bytes": 239599,
+          "sha256": "9d4222438067aab424ea6156a285af8ea31360fd7b10e18fb376fcc43031e2ac",
+          "pages": 2,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5612",
+      "slug": "OIAD-5612-public-conservation-land-pcl-bream-bay-whangarei",
+      "title": "Public conservation land (PCL) Bream Bay, Whangarei",
+      "responseDate": "29 September 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5612-public-conservation-land-pcl-bream-bay-whangarei/response.pdf",
+          "role": "response",
+          "label": "Response (PDF, 251K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/september/oiad-5612-response.pdf",
+          "bytes": 256676,
+          "sha256": "73ec9277c51461d0b973d97621b10139f3b79312d38d0f00dad6832af80bca21",
+          "pages": 5,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5479",
+      "slug": "OIAD-5479-landings-at-milford-sound-aerodrome",
+      "title": "Landings at Milford Sound Aerodrome",
+      "responseDate": "18 August 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5479-landings-at-milford-sound-aerodrome/response.pdf",
+          "role": "response",
+          "label": "Response letter (PDF, 106K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/august/oiad-5479-response.pdf",
+          "bytes": 104855,
+          "sha256": "07ff36ae93d7f17247d1f98ad9aab7205f4a1f7578ce7678370379eca0099fb1",
+          "pages": 1,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5470",
+      "slug": "OIAD-5470-construction-project-data-for-projects-over-10m",
+      "title": "Construction project data for projects over $10m",
+      "responseDate": "30 July 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5470-construction-project-data-for-projects-over-10m/response.pdf",
+          "role": "response",
+          "label": "Response letter (PDF, 172K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/july/oiad-5470-response.pdf",
+          "bytes": 175625,
+          "sha256": "a8a1eaccce22ec58df95ccf8f712be04ce617f4f0f28814d7aed91ac08faf98b",
+          "pages": 3,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5286",
+      "slug": "OIAD-5286-translocation-of-native-birds-into-non-fenced",
+      "title": "Translocation of native birds into non-fenced environments",
+      "responseDate": "19 June 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5286-translocation-of-native-birds-into-non-fenced/response.pdf",
+          "role": "response",
+          "label": "Response letter (PDF, 276K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/june/oiad-5286-response.pdf",
+          "bytes": 282400,
+          "sha256": "3893d8e868c4e85423089cf8d283bcc1f93c60c3f24755c0b3c8cdf7a6d4cefb",
+          "pages": 3,
+          "retrieved": "2026-11-27"
+        },
+        {
+          "file": "OIAD-5286-translocation-of-native-birds-into-non-fenced/attachment-1.pdf",
+          "role": "attachment",
+          "label": "Attachment 1 (PDF, 1,100K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/june/oiad-5286-attachment-1.pdf",
+          "bytes": 1125772,
+          "sha256": "44eb8daa07bdbcc00b90e97400af37978af1fad9bd003e5ad462e12783ca7e29",
+          "pages": 15,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5086",
+      "slug": "OIAD-5086-backcountry-huts-funding-and-management-proposed-changes",
+      "title": "Backcountry huts funding and management Proposed changes",
+      "responseDate": "30 May 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5086-backcountry-huts-funding-and-management-proposed-changes/response.pdf",
+          "role": "response",
+          "label": "Response letter (PDF, 370K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/may/oiad-5086-response.pdf",
+          "bytes": 378490,
+          "sha256": "bf528cc57b2a2ffbfa84ca15b327479c266c2e5e2512ffbed002cd5e159d5548",
+          "pages": 9,
+          "retrieved": "2026-11-27"
+        },
+        {
+          "file": "OIAD-5086-backcountry-huts-funding-and-management-proposed-changes/attachment-1.pdf",
+          "role": "attachment",
+          "label": "Attachment (PDF, 21, 503K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/may/oiad-5086-attachment.pdf",
+          "bytes": 22019029,
+          "sha256": "a93cbfa5c71aa912848cbae95a54990c4b86adbb7f3252cefcdddfa74b963a0e",
+          "pages": 200,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5076",
+      "slug": "OIAD-5076-tongariro-crossing-rahui",
+      "title": "Tongariro Crossing rahui",
+      "responseDate": "29 April 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5076-tongariro-crossing-rahui/response.pdf",
+          "role": "response",
+          "label": "Response letter (PDF, 168K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/april/oiad-5076-response.pdf",
+          "bytes": 171836,
+          "sha256": "e0e1f098df57e888f23b5355205d92426db1bebe234505b330eb94fee99c1338",
+          "pages": 4,
+          "retrieved": "2026-11-27"
+        },
+        {
+          "file": "OIAD-5076-tongariro-crossing-rahui/attachment-1.pdf",
+          "role": "attachment",
+          "label": "Attachment: Emails and texts re Tongariro death (PDF, 1,996K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/april/oiad-5076-attachment.pdf",
+          "bytes": 2043274,
+          "sha256": "c436cce7cba91f18e3b5427aa9f829c48b91fc1ee2b1f9de7674f401b0e8709c",
+          "pages": 29,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-4864",
+      "slug": "OIAD-4864-outdoor-gear-sold-by-doc-items-and",
+      "title": "Outdoor gear sold by DOC, items and revenue, Rakiura DOC visitor centre days open",
+      "responseDate": "25 February 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-4864-outdoor-gear-sold-by-doc-items-and/response.pdf",
+          "role": "response",
+          "label": "Response (PDF 291K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/february/oiad-4864-response.pdf",
+          "bytes": 297859,
+          "sha256": "5ac89bb492952188e6a6c0b095d96b4dc734c2fd78d932811a2619023c98aec9",
+          "pages": 3,
+          "retrieved": "2026-11-27"
+        },
+        {
+          "file": "OIAD-4864-outdoor-gear-sold-by-doc-items-and/attachment-1.pdf",
+          "role": "attachment",
+          "label": "Attachment 1: MPVC Outdoor Equipment Feb 2025 (PDF, 603K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/february/oiad-4864-rnpvc-outdoor-equipment-feb-2025.pdf",
+          "bytes": 617243,
+          "sha256": "697c0311d7abaab525a1d0ec484f67a5aaa338e4a5ca3e9b4793d898af69ae47",
+          "pages": 2,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-4783",
+      "slug": "OIAD-4783-purse-seine-fishing-vessels-and-protected-species",
+      "title": "Purse seine fishing vessels and protected species data",
+      "responseDate": "30 January 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-4783-purse-seine-fishing-vessels-and-protected-species/response.pdf",
+          "role": "response",
+          "label": "Response (PDF, 161K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/january/oiad-4783-response.pdf",
+          "bytes": 164550,
+          "sha256": "4b550df0118dc4d31b74ee186b9c8b5b267a1e3a288a86dcb19e096e165c5367",
+          "pages": 3,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5846",
+      "slug": "OIAD-5846-ai-projects",
+      "title": "AI projects",
+      "responseDate": "9 December 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5846-ai-projects/response.pdf",
+          "role": "response",
+          "label": "Response (PDF, 262K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/december/oiad-5846-response.pdf",
+          "bytes": 267712,
+          "sha256": "ac0b4710357804aa861692b7039b5e348e0e7270e7a06157fd975d5c7b5ddbca",
+          "pages": 5,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5762",
+      "slug": "OIAD-5762-pest-control-monitoring-mouse-numbers-increase",
+      "title": "Pest control monitoring - Mouse numbers increase",
+      "responseDate": "12 November 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5762-pest-control-monitoring-mouse-numbers-increase/response.pdf",
+          "role": "response",
+          "label": "Response (PDF, 134K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/november/oiad-5762-response.pdf",
+          "bytes": 136283,
+          "sha256": "56ef347cf50b62c7ff5509e7e69b70a845ffa338d6087f1c607ff7f85a65b816",
+          "pages": 3,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5665",
+      "slug": "OIAD-5665-auckland-airport-black-swan-management-permits",
+      "title": "Auckland Airport Black Swan Management (permits)",
+      "responseDate": "30 October 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5665-auckland-airport-black-swan-management-permits/response.pdf",
+          "role": "response",
+          "label": "Response (PDF, 218K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/october/oiad-5665-response.pdf",
+          "bytes": 222984,
+          "sha256": "7efd65fe6b34ed80dfa164d80c576043f90a37721e0078d8e291595625ed4437",
+          "pages": 3,
+          "retrieved": "2026-11-27"
+        },
+        {
+          "file": "OIAD-5665-auckland-airport-black-swan-management-permits/attachment-1.pdf",
+          "role": "attachment",
+          "label": "Combined documents (PDF, 5,086)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/october/oiad-5665-combined-documents.pdf",
+          "bytes": 5207737,
+          "sha256": "2ab6e65b8977f7b1bb27e81de741ccde303938d9d32a27d4fff365e00b3bff11",
+          "pages": 105,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5563",
+      "slug": "OIAD-5563-verification-or-validation-framework-for-pest-control",
+      "title": "Verification or validation framework for pest control contractors or community-led environmental projects",
+      "responseDate": "23 September 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5563-verification-or-validation-framework-for-pest-control/response.pdf",
+          "role": "response",
+          "label": "Response (PDF,134K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/september/oiad-5563-response.pdf",
+          "bytes": 136892,
+          "sha256": "649b9ec998bb93f541baa555ccf5fb4c5e7634f52d15c7e3d309810335c7cdab",
+          "pages": 5,
+          "retrieved": "2026-11-27"
+        },
+        {
+          "file": "OIAD-5563-verification-or-validation-framework-for-pest-control/attachment-1.pdf",
+          "role": "attachment",
+          "label": "Combined documents (PDF, 3,953K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/september/oiad-5563-combined-documents.pdf",
+          "bytes": 4047008,
+          "sha256": "e392bedd3a41cb99b0582c2141f2b91947f4347f4c7fa64eb00048562affe48e",
+          "pages": 129,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5468",
+      "slug": "OIAD-5468-red-deer-and-wapiti-distribution-in-fiordland",
+      "title": "Red Deer and Wapiti distribution in Fiordland",
+      "responseDate": "13 August 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5468-red-deer-and-wapiti-distribution-in-fiordland/response.pdf",
+          "role": "response",
+          "label": "Response letter (PDF, 394K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/august/oiad-5468-response.pdf",
+          "bytes": 403303,
+          "sha256": "3ebb4dfae00af139c6734c30caa59837c817e18949f8b4de1b129f46d18f4010",
+          "pages": 3,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5360",
+      "slug": "OIAD-5360-environmental-defence-society-eds-funding",
+      "title": "Environmental Defence Society (EDS) funding",
+      "responseDate": "23 July 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5360-environmental-defence-society-eds-funding/response.pdf",
+          "role": "response",
+          "label": "Response letter (PDF, 263K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/july/oiad-5360-response.pdf",
+          "bytes": 268615,
+          "sha256": "339aae13f4bf44413c8de2055ba87a286952e90b08eb3cdb2b7034a30da98e73",
+          "pages": 6,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5281",
+      "slug": "OIAD-5281-research-and-trials-of-rodent-contraceptives-in",
+      "title": "Research and trials of rodent contraceptives in NZ",
+      "responseDate": "6 June 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5281-research-and-trials-of-rodent-contraceptives-in/response.pdf",
+          "role": "response",
+          "label": "Response letter (PDF, 208K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/june/oiad-5281-response.pdf",
+          "bytes": 212693,
+          "sha256": "b16c55bf05564b352aef88f33b24093a38b25b904777ff2dea381751f6a308cd",
+          "pages": 1,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "ref": "OIAD-5108",
+      "slug": "OIAD-5108-north-taranaki-visitors-centre-te-kotahitanga-o",
+      "title": "North Taranaki Visitors Centre - Te Kotahitanga o Te Atiawa Trust",
+      "responseDate": "29 May 2025",
+      "sourcePage": "https://www.doc.govt.nz/news/oia-responses/2025/",
+      "files": [
+        {
+          "file": "OIAD-5108-north-taranaki-visitors-centre-te-kotahitanga-o/response.pdf",
+          "role": "response",
+          "label": "Response letter (PDF, 244K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/may/oiad-5108-response.pdf",
+          "bytes": 249668,
+          "sha256": "3f4f8ef01639511fbf0abed5ddcbaff3169cc7ec8d51e15604b3629908bcec0a",
+          "pages": 3,
+          "retrieved": "2026-11-27"
+        },
+        {
+          "file": "OIAD-5108-north-taranaki-visitors-centre-te-kotahitanga-o/attachment-1.pdf",
+          "role": "attachment",
+          "label": "Attachment (PDF, 2,187K)",
+          "pdfUrl": "https://www.doc.govt.nz/globalassets/documents/about-doc/oia/2025/may/oiad-5108-attachment.pdf",
+          "bytes": 2238466,
+          "sha256": "ad124c889e05bfcd81592954854f1273d2ccb257342125bba63ac64ab923d7b6",
+          "pages": 42,
+          "retrieved": "2026-11-27"
+        }
+      ],
+      "skipped": []
+    }
+  ],
+  "skipped": []
+}
